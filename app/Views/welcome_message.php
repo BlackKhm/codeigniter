@@ -88,8 +88,6 @@
                 </div>
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
-
-
                     <div class="alert alert-primary" role="alert">
                     A simple primary alert—check it out!
                     </div>
